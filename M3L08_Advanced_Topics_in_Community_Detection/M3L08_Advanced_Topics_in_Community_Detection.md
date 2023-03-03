@@ -21,6 +21,7 @@ Students will be able to:
 ## Overlapping Communities and CFinder Algorithm
 ![M3L08_Fig02](imgs/M3L08_Fig02.png)
 ![M3L08_Fig03](imgs/M3L08_Fig03.png)
+![M3L08_Fig03-2](imgs/M3L08_Fig03-2.png)
 CFinder: 
 - Main parameter: size k of cliques
 - Two k cliques are considered overlapping if they share k-1 nodes -> Overlap matrix O
