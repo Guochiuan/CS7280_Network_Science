@@ -203,7 +203,7 @@ For example, in the case of respiratory infections (such as COVID-19) **“socia
 
 ## Degree Block Approximation
 
-![M4L09_Fig18](imgs/M4L09_Fig18.png)
+![M4L09_Fig18](imgs/M4L09_Fig18.jpeg)
 *Figure 10.9 from Network Science by Albert-László Barabási*
 
 To avoid the homogeneous mixing assumption, one option would be to model explicitly the state (e.g., susceptible, infected, removed) of each node in the network, considering the degree of that node. That would result in a large system of differential equations that would only be solvable numerically.  
