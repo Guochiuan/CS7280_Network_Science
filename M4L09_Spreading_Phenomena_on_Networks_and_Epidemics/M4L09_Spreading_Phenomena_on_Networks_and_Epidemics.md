@@ -153,7 +153,7 @@ The plot at the right ( Fig.10.15 from Network Science by Albert-László Barab�
 
 ## Reproductive Number R0
 
-![M4L09_Fig14](imgs/M4L09_Fig14.jpeg)
+![M4L09_Fig14](imgs/M4L09_Fig14.png)
 
 Epidemiologists often use the **“reproductive number”**, R0, which is the average number of secondary infections that arise from a single infected individual in a susceptible population. 
 
